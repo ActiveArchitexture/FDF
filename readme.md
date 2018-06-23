@@ -1,6 +1,6 @@
-# Using the FDF Toolkit for Java
+# FDF: Adobe Acrobat Form Example
 
-This project demonstrates extracting form fields and values from a PDF form.
+This project demonstrates using the FDF Toolkit for Java to extract form fields and values from a PDF form.
 
 It assumes the PDF has been created using Adobe tools to create a PDF form. See:
 
@@ -108,3 +108,8 @@ __Note__: By downloading these files, you agree to the terms as stated in the En
 ### [FDFToolkit.net is a Visual Studio .net library for PDF form data](http://www.nk-inc.com/software/fdftoolkit.net/)
 
 ### iText
+
+## Repository
+
+
+[ActiveArchitexture/FDF: Adobe Acrobat Form Example](https://github.com/ActiveArchitexture/FDF)
