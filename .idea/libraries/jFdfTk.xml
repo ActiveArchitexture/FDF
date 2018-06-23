@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jFdfTk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FDF Toolkit for Java/Headers and Libraries/Java/jFdfTk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
