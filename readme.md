@@ -76,7 +76,7 @@ This project contains the FDF Toolkit for Java downloaded from [FDF Toolkit for 
 
 Include [jFdfTk.jar](FDF Toolkit for Java/Headers and Libraries/Java/jFdfTk.jar) in the Classpath.
 
-__Note__: we agree to the terms as stated in the 
+__Note__: The terms as stated in the 
 [FDF Toolkit End User License Agreement](https://wwwimages2.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/AcrobatFDFToolkitEULA.pdf).
 
 #### 2 B. Run ExtractFields.java
@@ -108,6 +108,15 @@ __Note__: By downloading these files, you agree to the terms as stated in the En
 ### [FDFToolkit.net is a Visual Studio .net library for PDF form data](http://www.nk-inc.com/software/fdftoolkit.net/)
 
 ### iText
+
+[iText 7 Community, an open source PDF engine to create your smart document workflow.](https://itextpdf.com/itext-7-community)
+
+[API documentation for creating PDF solutions | iText Developers](https://developers.itextpdf.com/apis)
+
+[Overview (iText 7 7.1.2 API)](http://itextsupport.com/apidocs/itext7/latest/)
+
+http://itextsupport.com/apidocs/itext7/latest/com/itextpdf/forms/PdfAcroForm.html
+
 
 ## Repository
 
